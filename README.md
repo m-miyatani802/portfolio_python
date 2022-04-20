@@ -75,3 +75,6 @@ line-bot-sdk==2.1.0
 
 で試したがそもそもの heroku add-on 辺りが理解出来ていないのがありうまく組み込めなかった。
 
+
+## 動作イメージ
+![image](https://github.com/tolafg/chatbot/blob/main/image/Screenshot_20220330_161048_jp.naver.line.android.jpg)
