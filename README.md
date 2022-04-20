@@ -48,10 +48,10 @@ line-bot-sdk==2.1.0
 
 
 
-2022-04-06T23:58:08.516925+00:00 heroku[web.1]: Error R14 (Memory quota exceeded)
+heroku[web.1]: Error R14 (Memory quota exceeded)
 
 
-2022-04-07T05:28:11.640836+00:00 heroku[web.1]: Error R15 (Memory quota vastly exceeded)
+heroku[web.1]: Error R15 (Memory quota vastly exceeded)
 
 
 
@@ -90,5 +90,5 @@ line-bot-sdk==2.1.0
 で試したがそもそもの heroku add-on 辺りが理解出来ていないのがありうまく組み込めなかった。
 
 
-## 動作イメージ
+## 動作画面(スマフォ画面)
 ![image](https://github.com/tolafg/chatbot/blob/main/image/Screenshot_20220330_161048_jp.naver.line.android.jpg)
