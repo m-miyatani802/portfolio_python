@@ -36,7 +36,7 @@ line-bot-sdk==2.1.0
 
 ## 主な工程
 
-1.python cgiのコードにFlaskを導入
+1.python cgiを使ったスクリプトをFlaskを使ったスクリプトに書き換える
 
 2.ngrokを使いローカル環境で動作確認、及びAIのデータを作成
 
