@@ -1,4 +1,4 @@
-# python portfolio③
+# python portfolio
 
 ## -LINE上で、自動で会話をするchatbot-
 
